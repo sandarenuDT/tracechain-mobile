@@ -98,7 +98,7 @@ export const navItems = [
   { key: 'packages', label: 'Packages', icon: 'cube-outline' as const, path: '/(tabs)/packages', parent: 'manage' },
   { key: 'products', label: 'Products', icon: 'cube-outline' as const, path: '/(tabs)/products', parent: 'manage' },
   { key: 'categories', label: 'Product Categories', icon: 'pricetags-outline' as const, path: '/(tabs)/categories', parent: 'manage' },
-  { key: 'qr', label: 'QR Scanner', icon: 'qr-code-outline' as const, path: '/(tabs)' },
+  { key: 'qr', label: 'QR Scanner', icon: 'qr-code-outline' as const, path: '/(tabs)/qr' },
   { key: 'shipments', label: 'Shipments', icon: 'car-outline' as const, path: '/(tabs)/shipments' },
   { key: 'analytics', label: 'Analytics', icon: 'analytics-outline' as const, path: '/(tabs)' },
   { key: 'settings', label: 'Settings', icon: 'settings-outline' as const, path: '/(tabs)' },
